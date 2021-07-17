@@ -1,12 +1,12 @@
 {
-  "name": "sociallydev/spaces-api",
+  "name": "sisaacongoma/spaces-api",
   "description": "An API wrapper for DigitalOcean's Spaces object storage designed for easy use",
   "type": "library",
   "require": {
-    "php": ">=5.4.0",
-    "aws/aws-sdk-php": "^3.52",
-    "guzzlehttp/guzzle": "^6.3",
-    "mtdowling/jmespath.php": "^2.4",
+    "php": "^7.3|^7.4|^8.0",
+    "aws/aws-sdk-php": "^3.185.15",
+    "guzzlehttp/guzzle": "5.*|^6.3.1|^7.0.1"
+    "mtdowling/jmespath.php": "^2.6.1",
     "psr/http-message": "^1.0"
   },
   "license": "MIT",
